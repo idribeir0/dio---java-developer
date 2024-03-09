@@ -1,5 +1,5 @@
 package Projetinhos;
-
+//teste
 public class smartTV {
     private boolean ligada = false;
     private int canal = 1;
